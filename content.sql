@@ -5,3 +5,4 @@ SELECT * from uxwae;
 SELECT * from dqnid;
 SELECT * from yqjps;
 SELECT * from vinid;
+SELECT * from svtan;
